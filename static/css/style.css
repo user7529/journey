@@ -11,3 +11,18 @@ p.b {
     margin-top: 0px;
     margin-bottom: 19px;
 }
+
+p.img {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 19px;
+}
+
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 19px;
+}
