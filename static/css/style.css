@@ -38,7 +38,14 @@ h2 {
     margin-top: 0px;
     margin-bottom: 19px;
 }
+
 h3 {
+    text-align: center;
+    margin-top:0px;
+    margin-bottom: 19px;
+}
+
+h4 {
     text-align: center;
     margin-top:0px;
     margin-bottom: 19px;
